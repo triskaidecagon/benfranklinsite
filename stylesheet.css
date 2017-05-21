@@ -1,4 +1,13 @@
-html {
+.wrapper {
   color: black;
+  width: 35em;
   margin: auto;
+}
+
+.header {
+  text-align: center;
+}
+
+.navBar {
+  text-align: center;
 }
