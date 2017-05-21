@@ -6,8 +6,23 @@
 
 .header {
   text-align: center;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .navBar {
   text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.body {
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+
+.footer {
+  font-family: 'Roboto', sans-serif;
+}
+
+a:visited {
+    color: blue;
 }
